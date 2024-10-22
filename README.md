@@ -33,8 +33,6 @@ The dataset used for this project contains the following features:
 ├── README.md           # Project documentation
 ```
 
-You can also explore the notebook in the notebooks/ folder for interactive analysis.
-
 ## Model
 The model used for prediction is a regression model, specifically:
 
@@ -44,7 +42,7 @@ Decision Tree Regressor
 The models were trained and evaluated using scikit-learn.
 
 ## Results
-The model achieved a mean absolute error (MAE) of 50.6 and an R-squared value of 95.5% on the test set. For detailed results, see the results/ directory.
+The model achieved a mean absolute error (MAE) of 50.6 and an R-squared value of 95.5% on the test set.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for improvements or bug fixes.
